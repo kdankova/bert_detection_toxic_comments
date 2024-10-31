@@ -9,8 +9,3 @@ This repository contains a Jupyter notebook that fine-tunes the BERT model for a
 ## Requirements
 
     pip install torch transformers pandas scikit-learn
-
-
-## Results
-
-The notebook outputs metrics for model evaluation, showcasing its effectiveness in toxic comment classification.
